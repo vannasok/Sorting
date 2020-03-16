@@ -23,8 +23,8 @@ def merge(arrA, arrB):
     return merged_arr
 
 
-arrA = [5, 6, 3, 4, 8]
-arrB = [1, 6, 7, 2, 3, 9]
+arrA = [2, 4, 6, 8, 10]
+arrB = [1, 3, 5, 7, 9]
 print(merge(arrA, arrB))
 
 # TO-DO: implement the Merge Sort function below USING RECURSION
